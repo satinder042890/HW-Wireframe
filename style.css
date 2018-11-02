@@ -35,7 +35,7 @@ h1{
 }
 aside{
     float: left;
-    width:390px;
+    width:445px;
     text-align: center;
     border: 1px solid #777;
     padding:30px 20px 325px 20px;
@@ -44,7 +44,7 @@ aside{
 }
 section{
     float:left;
-    width:550px;
+    width:495px;
     text-align: center;
     border:1px solid #777;
     padding:30px 20px 325px 20px;
@@ -64,7 +64,7 @@ article{
     padding:30px 10px 30px 20px;
     position: absolute;
     overflow: auto;
-    width:510px;
+    width:455px;
 
 }
 h1{
